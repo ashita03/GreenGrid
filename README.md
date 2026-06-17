@@ -58,12 +58,10 @@ GreenGrid was built entirely through vibe-coding on Base44 — natural language 
 
 ## Built by
 
-Built by **[Your Name]** and **Shreya** at Code for Climate, hosted by Mentor Me Collective, NYC Tech Week — June 2026.
-
-Thank you to the mentors and organizers who pushed our thinking in just a few short hours, and to everyone in the room building for the same reason we were.
+Built for Code for Climate, hosted by Mentor Me Collective, NYC Tech Week — June 2026.
 
 ---
 
 ## Disclaimer
 
-GreenGrid is a hackathon prototype. City and renewable energy data is illustrative and pre-loaded for demonstration purposes. It is not a substitute for professional sustainability, legal, or compliance advice. Always consult a qualified advisor before making site selection or energy procurement decisions.
+GreenGrid is a hackathon prototype. City and renewable energy data are illustrative and pre-loaded for demonstration purposes. It is not a substitute for professional sustainability, legal, or compliance advice. Always consult a qualified advisor before making site selection or energy procurement decisions.

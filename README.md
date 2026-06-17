@@ -47,6 +47,11 @@ See your current grid's carbon intensity, renewable share, and fossil fuel mix, 
 GreenGrid was built entirely through vibe-coding on Base44 — natural language prompts translated directly into a working multi-module app, with structured data tables for city scores and renewable energy options, and live API calls for real-time grid intelligence.
 
 ---
+## Demo App Link
+
+https://green-grid-pulse.base44.app/
+
+---
 
 ## How it works
 
